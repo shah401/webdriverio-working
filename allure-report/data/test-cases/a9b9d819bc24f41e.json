@@ -1,0 +1,58 @@
+{
+  "uid" : "a9b9d819bc24f41e",
+  "name" : "Then I should be able to get a list of posts",
+  "fullName" : "API Test Automation: An API Sample Scenario.Then I should be able to get a list of posts",
+  "historyId" : "e7a3a272d6e221a565eb236d62f51c1",
+  "time" : {
+    "start" : 1613574484986,
+    "stop" : 1613574485066,
+    "duration" : 80
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "API Test Automation: An API Sample Scenario"
+  }, {
+    "name" : "testClass",
+    "value" : "API Test Automation: An API Sample Scenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should be able to get a list of posts"
+  }, {
+    "name" : "package",
+    "value" : "API Test Automation: An API Sample Scenario"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.150"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9b9d819bc24f41e.json",
+  "parameterValues" : [ "chrome-88.0.4324.150" ]
+}

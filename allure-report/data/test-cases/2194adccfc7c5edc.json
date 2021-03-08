@@ -1,0 +1,87 @@
+{
+  "uid" : "2194adccfc7c5edc",
+  "name" : "Given I'm on the google homepage",
+  "fullName" : "UI Test Automation: A UI Sample Scenario.Given I'm on the google homepage",
+  "historyId" : "44790e20f5e12608dd6c6f138e66ae0e",
+  "time" : {
+    "start" : 1613574484809,
+    "stop" : 1613574486411,
+    "duration" : 1602
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1613574484816,
+        "stop" : 1613574486410,
+        "duration" : 1594
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8f3aa74352a8bb6c",
+        "name" : "Request",
+        "source" : "8f3aa74352a8bb6c.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "testClass",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I'm on the google homepage"
+  }, {
+    "name" : "package",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.150"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2194adccfc7c5edc.json",
+  "parameterValues" : [ "chrome-88.0.4324.150" ]
+}

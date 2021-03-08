@@ -1,0 +1,56 @@
+{
+  "uid" : "815081a176912293",
+  "name" : "Hook",
+  "fullName" : "API Test Automation: An API Sample Scenario.Hook",
+  "historyId" : "c9f8b29a0e554c6ab2aadd9da28508ed",
+  "time" : {
+    "start" : 1613574484841,
+    "stop" : 1613574484843,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "API Test Automation: An API Sample Scenario"
+  }, {
+    "name" : "testClass",
+    "value" : "API Test Automation: An API Sample Scenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "API Test Automation: An API Sample Scenario"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.150"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "815081a176912293.json",
+  "parameterValues" : [ "chrome-88.0.4324.150" ]
+}

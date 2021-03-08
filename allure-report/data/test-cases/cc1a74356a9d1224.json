@@ -1,0 +1,98 @@
+{
+  "uid" : "cc1a74356a9d1224",
+  "name" : "Hook",
+  "fullName" : "UI Test Automation: A UI Sample Scenario.Hook",
+  "historyId" : "bb83224224cf47c0f976a8cbde5e98a5",
+  "time" : {
+    "start" : 1613574492023,
+    "stop" : 1613574492024,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "testClass",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.150"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "acef90448c769661",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613574491029,
+        "stop" : 1613574491029,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "64422bab20ab247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613574489176,
+        "stop" : 1613574489177,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a0759b1df9898a78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613574485815,
+        "stop" : 1613574485816,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1a754acff5354715",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613574484920,
+        "stop" : 1613574484922,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5dc5b49b23864115",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613574484804,
+        "stop" : 1613574484808,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc1a74356a9d1224.json",
+  "parameterValues" : [ "chrome-88.0.4324.150" ]
+}

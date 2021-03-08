@@ -1,0 +1,87 @@
+{
+  "uid" : "3fa72b12c45f572",
+  "name" : "Then I should be navigated to the search result page",
+  "fullName" : "UI Test Automation: A UI Sample Scenario.Then I should be navigated to the search result page",
+  "historyId" : "58b429c07400fcb5d7aeac0ea1188300",
+  "time" : {
+    "start" : 1613574491019,
+    "stop" : 1613574491029,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1613574491021,
+        "stop" : 1613574491026,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bdf6be2892c21e82",
+        "name" : "Response",
+        "source" : "bdf6be2892c21e82.json",
+        "type" : "application/json",
+        "size" : 23
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "testClass",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should be navigated to the search result page"
+  }, {
+    "name" : "package",
+    "value" : "UI Test Automation: A UI Sample Scenario"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.150"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fa72b12c45f572.json",
+  "parameterValues" : [ "chrome-88.0.4324.150" ]
+}

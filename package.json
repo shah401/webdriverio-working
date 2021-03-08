@@ -1,0 +1,29 @@
+{
+  "name": "webdriver-io-demo",
+  "version": "1.0.0",
+  "description": "UI & API automation framework based on webdriver.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:clearReports && wdio wdio.conf.js",
+    "test:clearReports": "rm -rf allure-report allure-results",
+    "test:report": "allure open"
+  },
+  "author": "Nadiya Nijiati",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/register": "^7.12.10",
+    "@wdio/allure-reporter": "^6.11.0",
+    "@wdio/cli": "^6.11.3",
+    "@wdio/cucumber-framework": "^6.11.1",
+    "@wdio/local-runner": "^6.11.3",
+    "@wdio/spec-reporter": "^6.11.0",
+    "@wdio/sync": "^6.11.0",
+    "allure-commandline": "^2.13.8",
+    "axios": "^0.21.1",
+    "chromedriver": "^87.0.5",
+    "wdio-chromedriver-service": "^6.0.4",
+    "wdio-cucumber-reporter": "0.0.2"
+  }
+}
